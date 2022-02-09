@@ -1,4 +1,4 @@
 # IocAndDiExample
-Neste código ensino e dou exemplos de maneira sucinta sobre Inversão de controle e Injeção de dependência usando Java.
+In this code I teach and give succinct examples of Inversion of Control and Dependency Injection using Java.
 
-Os Exemplos estão na Classe VendaPoduto.java.
+The Examples are in the SellProduct.java class.
