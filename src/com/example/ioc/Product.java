@@ -1,5 +1,5 @@
 package com.example.ioc;
 
-public class Produto {
+public class Product {
 
 }
